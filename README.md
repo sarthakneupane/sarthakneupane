@@ -40,9 +40,9 @@ I’m a full-stack web developer passionate about building scalable applications
 
 ## 📈 GitHub Stats
 
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakya77&show_icons=true&theme=tokyonight)
+![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthakneupane&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakya77&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakneupane&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect with Me
